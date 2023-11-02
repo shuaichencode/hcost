@@ -28,3 +28,4 @@ After installation, type
 2. hcost.sthlp: help file for hcsot command
 3. TestExample.do: an example to show how to use hcost command
 4. example.dta: Simulated data file for test purpose
+5. CombineData.do: example code to show how to combine cost and survival data to be used for hcost 
